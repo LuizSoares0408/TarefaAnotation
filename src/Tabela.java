@@ -1,3 +1,3 @@
-public class Tabela {
-
+public @interface Tabela {
+    String TabelaNome();
 }
